@@ -1,0 +1,8 @@
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\bin\Debug\pjConexion1.exe.config
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\bin\Debug\pjConexion1.exe
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\bin\Debug\pjConexion1.pdb
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\obj\Debug\pjConexion1.frmClientes.resources
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\obj\Debug\pjConexion1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\obj\Debug\pjConexion1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\obj\Debug\pjConexion1.exe
+C:\Users\Alumno\source\repos\pjConexion1\pjConexion1\obj\Debug\pjConexion1.pdb
